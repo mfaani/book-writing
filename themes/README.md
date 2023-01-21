@@ -31,6 +31,9 @@ Stop >> Tree is starting to have a single yellow leaf.
   - Sham
   
 ## Trip
+- A trip to a total different city. Getting on the plane.
+- A trip to the zoo
+- A trip to grandmom's house
 
 ## A is for Adventure, B is for bravery ... Z is for
 
@@ -51,3 +54,8 @@ Sample: "Music is ..." - Brandon Stosuy
 - An elephants eats 50kgs a day. An ant eats 1gr a day. 
 - An elephant dreams of trunks. A ant dreams of big antennas. 
 - An Egyptian prays like X. A German prays like Y. An Indian person prays like J.
+
+## Problem
+- Kid doesn't want to sleep. Show the multiple attempts of the parents to pull the kid to sleep + multiple attempts of kid to not sleep. Then have a breakthrough!
+- 
+
