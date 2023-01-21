@@ -35,3 +35,13 @@ Stop >> Tree is starting to have a single yellow leaf.
 ## A is for Adventure, B is for bravery ... Z is for
 
 Can do this for almost any topic. 
+
+
+## Define what something is — through opposites/illustrations
+Pg1: Music is quiet (with headphones). Pg2: Music is Loud (A guy with a big drum)
+Pg3: Music slow. Pg4: Music is made of fast sounds
+Music is hard (loud dashing music). Music is soft (gentle soft music)
+Music is happy. Music is sad
+Music is one (making music). Music is many (ppl doing it). 
+
+Sample: "Music is ..." - Brandon Stosuy
