@@ -45,3 +45,9 @@ Music is happy. Music is sad
 Music is one (making music). Music is many (ppl doing it). 
 
 Sample: "Music is ..." - Brandon Stosuy
+
+## Contrast
+
+- An elephants eats 50kgs a day. An ant eats 1gr a day. 
+- An elephant dreams of trunks. A ant dreams of big antennas. 
+- An Egyptian prays like X. A German prays like Y. An Indian person prays like J.
