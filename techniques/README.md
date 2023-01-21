@@ -9,3 +9,8 @@ OR JUST not have a background. Let it be a simple white background. This makes t
 Obviously if you're outside and playing in the backyard, then things are a bit different. 
 
 ## Rhyming
+
+## Font
+
+Use bigger fonts for things that require to be expressed loudly. Music is LOUD 
+Use smaller fonts for things that require to be expressed queitly. Music is quiet
