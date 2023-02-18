@@ -14,3 +14,12 @@ Obviously if you're outside and playing in the backyard, then things are a bit d
 
 Use bigger fonts for things that require to be expressed loudly. Music is LOUD 
 Use smaller fonts for things that require to be expressed queitly. Music is quiet
+
+writing vertically. or all over the place. 
+
+vertically I mean like:
+
+hello  
+my  
+dear  
+friend
