@@ -2,6 +2,14 @@
 
 ## Side characters. Toys. Teddy Bears...
 
+# Build up
+
+Give hints thar for example, mention something related to finding a possible solution. 
+Don't go deeper. then 5 pages after, you use your previous hint. 
+basically don't just suggest a solution or refer to it and then follow it through. 
+
+often gapping in between is a good idea
+
 # Drawing
 
 You can draw a scene in the house. Let it have a wall, background curtains, etc. 
